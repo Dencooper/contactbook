@@ -9,7 +9,13 @@
   "author": "Nam Le",
   "license": "ISC",
   "dependencies": {
+    "contactbook-backend": "file:",
     "cors": "^2.8.5",
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.21.0",
+    "eslint-config-prettier": "^10.0.1",
+    "prettier": "^3.5.2"
   }
 }
